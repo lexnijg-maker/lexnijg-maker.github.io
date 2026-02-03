@@ -1,0 +1,18 @@
+---
+title: "Blog"
+author: "Alexia Nijgorodov"
+listing: 
+  contents:
+    - "*.qmd"
+  type: default
+  fields: [title, categories, date, Images1/image1.jpeg]
+  sort: "date desc"
+  image-height: 200px
+
+
+format: 
+  html: 
+    page-layout: full
+
+---
+These blogs contain fun facts ranging from health to the unseen world of microbiology. Join me on this discovery adventure!

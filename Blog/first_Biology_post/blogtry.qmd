@@ -1,0 +1,12 @@
+---
+title: Biology Fun Facts
+subtitle: Fun facts from health to microbiology
+author: Alexia Nijgorodov
+date: "2026"
+categories:
+  - quarto
+  - images
+slug: arranging-quarto-images
+page-layout: article
+image: one.png
+---
