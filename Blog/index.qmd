@@ -5,10 +5,9 @@ listing:
   contents:
     - "*.qmd"
   type: default
-  fields: [title, categories, date, Images1/image1.jpeg]
+  fields: [title, categories, date,image]
   sort: "date desc"
   image-height: 200px
-
 
 format: 
   html: 
